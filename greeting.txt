@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 =======
 hello
 >>>>>>> Mergesort-Impl
+=======
+Good Morning
+>>>>>>> parent of 324af45... master commit
